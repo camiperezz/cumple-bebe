@@ -14,7 +14,7 @@ body {
 .button-grid {
     display: grid;
     gap: 10px;
-    margin-bottom: 100px;
+    margin: 100px 0;
 }
 
 
